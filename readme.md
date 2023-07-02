@@ -1,4 +1,6 @@
-# Three.js Journey
+# Three.js Basic Scene Template
+
+![preview image](static/images/preview.png)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
